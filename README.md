@@ -18,7 +18,17 @@ yarn install
 ```
 
 ## Update All Dependencies
+
+```bash
+# npm
 npm update
+
+# pnpm
+pnpm update
+
+# yarn
+yarn upgrade
+```
 
 ## Development Server
 
