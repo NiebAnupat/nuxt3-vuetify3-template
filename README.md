@@ -17,6 +17,9 @@ pnpm install
 yarn install
 ```
 
+## Update All Dependencies
+npm update
+
 ## Development Server
 
 Start the development server on `http://localhost:3000`:
